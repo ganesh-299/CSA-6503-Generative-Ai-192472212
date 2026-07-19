@@ -7,4 +7,4 @@ model = LinearRegression()
 
 model.fit(X, y)
 
-print(model.predict([[5]]))
+print(model.predict([[5]]))source .venv/bin/activate
